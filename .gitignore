@@ -27,3 +27,6 @@ supervised_server-*.tar
 
 # No ASDF tool-versions
 .tool-versions
+
+# No VSCode settings
+.vscode/
