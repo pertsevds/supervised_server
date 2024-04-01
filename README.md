@@ -1,6 +1,6 @@
 # SupervisedServer
 
-**TODO: Add description**
+The SupervisedServer module simplifies the start-up of supervised GenServers.
 
 ## Installation
 
@@ -15,6 +15,6 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/supervised_server>.
+## Documentation
+
+<https://hexdocs.pm/supervised_server>
