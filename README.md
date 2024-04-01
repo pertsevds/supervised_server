@@ -2,6 +2,8 @@
 
 The SupervisedServer module simplifies the start-up of supervised GenServers.
 
+SupervisedServer is a start_link/1 + GenServer behaviour.
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
